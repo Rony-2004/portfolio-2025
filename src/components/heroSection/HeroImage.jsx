@@ -11,7 +11,7 @@ const HeroImage = () => {
     <div className="relative self-end h-full w-full items-center justify-center">
       <div className="h-full w-full">
         <img
-          src="../../public/images/me.png"
+          src="images/me.png"
           alt="Mowazzem Uddin Ahmed"
           className="w-auto h-auto md:max-w-[620px] sm:max-w-[420px] absolute bottom-0 z-10 left-1/2 -translate-x-1/2"
         />
