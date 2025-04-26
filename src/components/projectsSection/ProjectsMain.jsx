@@ -19,7 +19,7 @@ const projects = [
   },
   {
     image: "images/img4.jpg",
-    name: "Portfolio",
+    name: "Spotify Clone",
     link: "https://github.com/Rony-2004/",
   },
   {
